@@ -22,12 +22,9 @@ section{
 .login{
     width: 1230px;
     height: 81px;
-    /*top: -58px;
-    left: -451px;*/
     margin-top: 23px;
     border: 2px solid #60C1BD;
     background: #60C1BD;
-    /* text-align: center; */
     border-radius: 100px;
 }
 
@@ -140,11 +137,7 @@ section{
     color: #FFFFFF;
 }
 
-/* .img{
-    margin: 27.35px 66.84px 13.44px 48.55px;
-    /* right: 66.84px;
-    bottom: 13.44px; 
-} */
+
 
 .big{
     height: 1687px;
@@ -152,7 +145,6 @@ section{
 } 
 
 .outside{
-    background: #f0ed53;
     height: 203px;
     width: 1179px;
     margin-top: -80px;
@@ -182,7 +174,6 @@ section{
 }
 
 .text_left_outside{
-    background: #a39bf5;
     height: 106px;
     width: 297.86px;
     margin: 48.5px 31px 48.5px 46.15px;
@@ -215,7 +206,7 @@ section{
 }
 
 .right_outside{
-    background: #94f404;
+    background: #F4F6F0;
     height: 196px;
     width: 506px;
     margin: 0px 41.5px 0px 41.5px; 
@@ -232,7 +223,6 @@ section{
     width: 297.86px;
     height: 106px;
     margin: 45px 30.5px 45px 29.2px;
-    background: #bfb1f3;
     float: right;
     text-align: left;
 }
@@ -265,7 +255,6 @@ section{
     height: 1318px;
     width: 1440px;
     margin-bottom: 40px;
-    /* background: #edf6ab; */
     text-align: center;
 }
 
@@ -368,11 +357,7 @@ h4{
     
 }
 
-/* .next:after{
-    content: "";
-    display: block;
-    clear:both
-}  */
+
 
 .h1_next{
     font-family: 'Nunito Sans';
@@ -488,18 +473,15 @@ h4{
 }
 
 .img_mission{
-    /*background: #60C1BD;*/
     margin: 5px 0px 7.77px;
 
 }
 
 .text_center_mission{
-    /*background: #232b19;*/
     margin: 0px 0px 0px 112px;
     height: 396px;
     width: 512px;
     float: right;
-    /*display: block;*/
 }
 
 .p_in_mission{
@@ -534,8 +516,6 @@ h4{
 .button_mission{
     width: 121px;
     height: 38px;
-    /*left: calc(50% - 121px/2 + 369px);
-    top: 2906px;*/
     border: 1px solid #60C1BD;
     margin-left: 35px;
     margin-top: 50px;
@@ -544,7 +524,6 @@ h4{
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
-/* identical to box height */
     color: #60C1BD;
 
 }
@@ -557,14 +536,13 @@ h4{
     left: 0%;
     right: 0%;
     top: 0px;
-    background: #8BC441;
+    background: #8BC441; 
 }
 
 .center_rover{
     height: 266px;
     width: 1074px;
     margin: 86.2px 183px 85.8px;
-    /* background: #c4c9c9; */
 }
 
 
@@ -573,11 +551,9 @@ h4{
     width: 237px;
     margin-top: 3.44px;
     margin-left: 2.16px;
-    /* background: #b2d683; */
 }
 
 .text_rover{
-    /* background: #daeb69; */
     height: 266px;
     width: 672.11px;
     float: right;
@@ -642,7 +618,6 @@ h4{
     height: 360.44px;
     width: 1196px;
     margin: 42px 122px 42.56px;
-    background: #f1f2f0;
 }
 
 .last_in_last:after{
@@ -658,7 +633,6 @@ h4{
     margin-left: 23px;
     margin-bottom: 71px;
     float: left;
-    background: #ecf6b3;
 }
 
 .h1_veterinarians{
@@ -710,7 +684,6 @@ h4{
     margin-bottom: 71px;
     margin-right: 104px;
     float: left;
-    background: #ecf6b3;
 }
 
 .h1_hospitals{
@@ -771,7 +744,6 @@ h4{
     margin-top: 78px;
     margin-right: 75px;
     float: right;
-    background: #ecf6b3;
 }
 
 .h1_find_us,
@@ -803,8 +775,6 @@ h4{
 }
 
 .span_last{
-    /* margin-top: 71px; */
-    /* margin-left: 20px; */
     margin-bottom: 37px;
     margin-right: 22px;
     margin-left: 30px;
