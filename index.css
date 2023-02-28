@@ -623,15 +623,15 @@ h4{
 .last_in_last:after{
     content: "";
     display: block;
-    clear:both
+    clear:both;
 }
 
 .veterinarians{
     height: 136px;
     width: 146px;
     margin-top: 78px;
-    margin-left: 23px;
-    margin-bottom: 71px;
+    margin-left: 30px;
+    margin-bottom: 71px; 
     float: left;
 }
 
@@ -735,7 +735,6 @@ h4{
     width: 230px;
     margin-top: 98px;
     margin-right: 97px;
-    margin-bottom: 95.69px;
 }
 
 .find_us{
@@ -775,11 +774,29 @@ h4{
 }
 
 .span_last{
-    margin-bottom: 37px;
-    margin-right: 22px;
+    /* margin-bottom: 37px; */
+    /* margin-right: 30px; */
     margin-left: 30px;
     height: 19px;
     width: 546px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #60C1BD;
+}
+
+.blog{
+    margin: 0px 39px;
+}
+
+.us{
+    margin: 0px 39px;
+}
+
+.privacy{
+    margin-left: 39px;
 }
 
 .div_last{
@@ -793,4 +810,5 @@ h4{
     color: #284854;
     margin-left: 30px;
     margin-bottom: 1.44px;
+    /* margin-top: 37px; */
 }
