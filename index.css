@@ -745,7 +745,18 @@ h4{
     float: right;
 }
 
-.h1_find_us,
+.h1_find_us{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #284854;
+}
+
+
 .h2_find_us,
 .h3_find_us,
 .h4_find_us,
