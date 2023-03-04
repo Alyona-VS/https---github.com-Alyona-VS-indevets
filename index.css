@@ -1,17 +1,17 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     display: inline-block;
-    
+
 }
 
-section{
+section {
     width: 1440px;
-    
+
 }
 
-.box_1{
+.box_1 {
     width: 1440px;
     height: 799px;
     background: #284854;
@@ -19,7 +19,7 @@ section{
     background: #284854;
 }
 
-.login{
+.login {
     width: 1230px;
     height: 81px;
     margin-top: 23px;
@@ -28,7 +28,7 @@ section{
     border-radius: 100px;
 }
 
-.i_login{
+.i_login {
     height: 33px;
     width: 125px;
     font-family: 'Roboto';
@@ -42,7 +42,7 @@ section{
     float: left;
 }
 
-.v_login{
+.v_login {
     height: 25px;
     width: 109px;
     font-family: 'Nunito Sans';
@@ -56,7 +56,7 @@ section{
     float: left;
 }
 
-.h_login{
+.h_login {
     height: 25px;
     width: 77px;
     font-family: 'Nunito Sans';
@@ -70,7 +70,7 @@ section{
     float: left;
 }
 
-.w_login{
+.w_login {
     height: 25px;
     width: 125px;
     font-family: 'Nunito Sans';
@@ -84,7 +84,7 @@ section{
     float: left;
 }
 
-.button_login{
+.button_login {
     height: 25px;
     width: 96px;
     font-family: 'Nunito Sans';
@@ -100,7 +100,7 @@ section{
     border-color: #FFFFFF;
 }
 
-.center{
+.center {
     height: 391px;
     width: 1200px;
     margin: 134px 120px 170px 120px;
@@ -109,7 +109,7 @@ section{
     background-repeat: no-repeat;
 }
 
-.text{
+.text {
     height: 204px;
     width: 712px;
     margin: -15px 428px 60px 60px;
@@ -123,7 +123,7 @@ section{
     text-align: start;
 }
 
-.content{
+.content {
     height: 112px;
     width: 542px;
     margin: 0px 598px 30px 60px;
@@ -139,12 +139,12 @@ section{
 
 
 
-.big{
+.big {
     height: 1687px;
     background: #E5E5E5;
-} 
+}
 
-.outside{
+.outside {
     height: 203px;
     width: 1179px;
     margin-top: -80px;
@@ -153,13 +153,13 @@ section{
     margin-bottom: 166px;
 }
 
-.outside:after{
+.outside:after {
     content: "";
     display: block;
-    clear:both
-} 
+    clear: both
+}
 
-.left_outside{
+.left_outside {
     background: #F4F6F0;
     height: 203px;
     width: 506px;
@@ -167,13 +167,13 @@ section{
 
 }
 
-.img_left_outside{
+.img_left_outside {
     height: 111px;
     width: 101px;
     margin: 45px 0px 47px 30px;
 }
 
-.text_left_outside{
+.text_left_outside {
     height: 106px;
     width: 297.86px;
     margin: 48.5px 31px 48.5px 46.15px;
@@ -181,7 +181,7 @@ section{
     text-align: left;
 }
 
-.t_l_o{
+.t_l_o {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -191,7 +191,7 @@ section{
     margin-top: 0.5px;
 }
 
-.button_left_outside{
+.button_left_outside {
     height: 54px;
     width: 182px;
     font-family: 'Nunito Sans';
@@ -205,21 +205,21 @@ section{
     border: none;
 }
 
-.right_outside{
+.right_outside {
     background: #F4F6F0;
     height: 196px;
     width: 506px;
-    margin: 0px 41.5px 0px 41.5px; 
+    margin: 0px 41.5px 0px 41.5px;
     float: right;
 }
 
-.img_right_outside{
+.img_right_outside {
     height: 100px;
     width: 118.45px;
     margin: 47px 0px 49px 30px;
 }
 
-.text_right_outside{
+.text_right_outside {
     width: 297.86px;
     height: 106px;
     margin: 45px 30.5px 45px 29.2px;
@@ -227,7 +227,7 @@ section{
     text-align: left;
 }
 
-.t_r_o{
+.t_r_o {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -237,7 +237,7 @@ section{
 
 }
 
-.button_right_outside{
+.button_right_outside {
     height: 54px;
     width: 188px;
     font-family: 'Nunito Sans';
@@ -247,24 +247,24 @@ section{
     line-height: 27px;
     color: #60C1BD;
     margin-top: 9px;
-    text-align: left; 
+    text-align: left;
     border: none;
 }
 
-.center_big{
+.center_big {
     height: 1318px;
     width: 1440px;
     margin-bottom: 40px;
     text-align: center;
 }
 
-.center_big:after{
+.center_big:after {
     content: "";
     display: block;
-    clear:both
-} 
+    clear: both
+}
 
-h3{
+h3 {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
@@ -276,7 +276,7 @@ h3{
     margin-top: 8px;
 }
 
-h4{
+h4 {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -286,7 +286,7 @@ h4{
     color: #284854;
 }
 
-.circle_1{
+.circle_1 {
     width: 285px;
     height: 285px;
     border-radius: 50%;
@@ -296,12 +296,12 @@ h4{
     margin-left: 231px;
 }
 
-.img_circle_1{
+.img_circle_1 {
     margin-bottom: 29.01px;
     margin-top: -32px;
 }
 
-.step_one{
+.step_one {
     height: 208px;
     width: 525px;
     margin-top: 159px;
@@ -309,7 +309,7 @@ h4{
     text-align: left;
 }
 
-.h1_step_one{
+.h1_step_one {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
@@ -318,7 +318,7 @@ h4{
     color: #798B56;
 }
 
-.h2_step_one{
+.h2_step_one {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -329,7 +329,7 @@ h4{
     margin-bottom: 2px;
 }
 
-.p_step_one{
+.p_step_one {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -338,15 +338,15 @@ h4{
     color: #284854;
 }
 
-.next_circle2{
+.next_circle2 {
     height: 336.99px;
     width: 992px;
     margin-top: 80px;
     margin-left: 255px;
     margin-right: 193px;
-} 
+}
 
-.next{
+.next {
     height: 285px;
     width: 451px;
     margin-top: 51.99px;
@@ -354,12 +354,12 @@ h4{
     float: left;
     margin-left: 0px;
     margin-right: 175px;
-    
+
 }
 
 
 
-.h1_next{
+.h1_next {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
@@ -368,7 +368,7 @@ h4{
     color: #798B56;
 }
 
-.h2_next{
+.h2_next {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -378,7 +378,7 @@ h4{
     margin-bottom: 10px;
 }
 
-.p_next{
+.p_next {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -387,7 +387,7 @@ h4{
     color: #284854;
 }
 
-.circle_2{
+.circle_2 {
     width: 285px;
     height: 285px;
     border-radius: 50%;
@@ -395,17 +395,17 @@ h4{
     margin-top: 51.99px;
     float: right;
     margin-right: 0px;
-    margin-left: 0px; 
+    margin-left: 0px;
 }
 
-.img_circle_2{
+.img_circle_2 {
     margin-top: -52px;
     margin-left: -27px;
     margin-bottom: 33px;
     margin-right: 62px;
 }
 
-.circle_3{
+.circle_3 {
     width: 285px;
     height: 285px;
     border-radius: 50%;
@@ -415,12 +415,12 @@ h4{
     float: left;
 }
 
-.img_circle_3{
+.img_circle_3 {
     margin-top: -14px;
     margin-left: 74px;
 }
 
-.the_result{
+.the_result {
     height: 280px;
     width: 489px;
     margin-top: 83px;
@@ -430,7 +430,7 @@ h4{
     float: right;
 }
 
-.h1_the_result{
+.h1_the_result {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
@@ -439,7 +439,7 @@ h4{
     color: #798B56;
 }
 
-.h2_the_result{
+.h2_the_result {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -448,7 +448,7 @@ h4{
     color: #8BC441;
 }
 
-.p_the_result{
+.p_the_result {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -460,31 +460,31 @@ h4{
 
 
 
-.mission{
+.mission {
     width: 1440px;
     height: 601px;
     background: #F4F6F0;
 }
 
-.center_mission{
+.center_mission {
     width: 1074px;
     height: 396px;
     margin: 78px 183px 127px;
 }
 
-.img_mission{
+.img_mission {
     margin: 5px 0px 7.77px;
 
 }
 
-.text_center_mission{
+.text_center_mission {
     margin: 0px 0px 0px 112px;
     height: 396px;
     width: 512px;
     float: right;
 }
 
-.p_in_mission{
+.p_in_mission {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 700;
@@ -493,7 +493,7 @@ h4{
     color: #60C1BD;
 }
 
-.h1_mission{
+.h1_mission {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -504,7 +504,7 @@ h4{
     margin-top: 5px;
 }
 
-.text_in_mision{
+.text_in_mision {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -513,7 +513,7 @@ h4{
     color: #284854;
 }
 
-.button_mission{
+.button_mission {
     width: 121px;
     height: 38px;
     border: 1px solid #60C1BD;
@@ -530,37 +530,37 @@ h4{
 
 
 
-.rover{
+.rover {
     height: 438px;
     width: 1440px;
     left: 0%;
     right: 0%;
     top: 0px;
-    background: #8BC441; 
+    background: #8BC441;
 }
 
-.center_rover{
+.center_rover {
     height: 266px;
     width: 1074px;
     margin: 86.2px 183px 85.8px;
 }
 
 
-.img_rover{
+.img_rover {
     height: 261px;
     width: 237px;
     margin-top: 3.44px;
     margin-left: 2.16px;
 }
 
-.text_rover{
+.text_rover {
     height: 266px;
     width: 672.11px;
     float: right;
 
 }
 
-.p_rover{
+.p_rover {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -571,7 +571,7 @@ h4{
 
 
 
-.left_button{
+.left_button {
     width: 239px;
     height: 81px;
     font-family: 'Nunito Sans';
@@ -586,14 +586,14 @@ h4{
     background: #8BC441;
 }
 
-.div_right_button{
+.div_right_button {
     height: 81px;
     width: 301px;
     float: right;
     margin: 57px 0px 0.2px 132px;
 }
 
-.right_button{
+.right_button {
     width: 210px;
     height: 81px;
     font-family: 'Nunito Sans';
@@ -601,41 +601,41 @@ h4{
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;
-    color: #FFFFFF; 
+    color: #FFFFFF;
     border: none;
     text-align: left;
     background: #8BC441;
 }
 
 
-.last{
+.last {
     width: 1440px;
     height: 445px;
     background: #E5E5E5;
 }
 
-.last_in_last{ 
+.last_in_last {
     height: 360.44px;
     width: 1196px;
     margin: 42px 122px 42.56px;
 }
 
-.last_in_last:after{
+.last_in_last:after {
     content: "";
     display: block;
-    clear:both;
+    clear: both;
 }
 
-.veterinarians{
+.veterinarians {
     height: 136px;
     width: 146px;
     margin-top: 78px;
     margin-left: 30px;
-    margin-bottom: 71px; 
+    margin-bottom: 71px;
     float: left;
 }
 
-.h1_veterinarians{
+.h1_veterinarians {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -646,7 +646,7 @@ h4{
     color: #284854;
 }
 
-.h2_veterinarians{
+.h2_veterinarians {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -657,7 +657,7 @@ h4{
     margin-bottom: 18px;
 }
 
-.h3_veterinarians{
+.h3_veterinarians {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -666,7 +666,7 @@ h4{
     color: #60C1BD;
 }
 
-.h4_veterinarians{
+.h4_veterinarians {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -676,7 +676,7 @@ h4{
     margin-top: 18px;
 }
 
-.hospitals{
+.hospitals {
     height: 136px;
     width: 180px;
     margin-top: 78px;
@@ -686,7 +686,7 @@ h4{
     float: left;
 }
 
-.h1_hospitals{
+.h1_hospitals {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -698,7 +698,7 @@ h4{
 
 }
 
-.h2_hospitals{
+.h2_hospitals {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -710,7 +710,7 @@ h4{
 
 }
 
-.h3_hospitals{
+.h3_hospitals {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -720,7 +720,7 @@ h4{
 
 }
 
-.h4_hospitals{
+.h4_hospitals {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -730,14 +730,14 @@ h4{
     margin-top: 18px;
 }
 
-.img_last{
+.img_last {
     height: 209.31px;
     width: 230px;
     margin-top: 98px;
     margin-right: 97px;
 }
 
-.find_us{
+.find_us {
     height: 175px;
     width: 189px;
     margin-top: 78px;
@@ -745,7 +745,7 @@ h4{
     float: right;
 }
 
-.h1_find_us{
+.h1_find_us {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -761,7 +761,7 @@ h4{
 .h3_find_us,
 .h4_find_us,
 .h5_find_us,
-.h6_find_us{
+.h6_find_us {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -770,21 +770,21 @@ h4{
     color: #60C1BD;
 }
 
-.h3_find_us{
+.h3_find_us {
     margin-top: 4px;
     margin-bottom: 4px;
 }
 
-.h1_find_us{
+.h1_find_us {
     margin-bottom: 25px;
 }
 
-.h5_find_us{
+.h5_find_us {
     margin-top: 29px;
     margin-bottom: 4px;
 }
 
-.span_last{
+.span_last {
     /* margin-bottom: 37px; */
     /* margin-right: 30px; */
     margin-left: 30px;
@@ -798,19 +798,19 @@ h4{
     color: #60C1BD;
 }
 
-.blog{
+.blog {
     margin: 0px 39px;
 }
 
-.us{
+.us {
     margin: 0px 39px;
 }
 
-.privacy{
-    margin-left: 39px;
+.login_last {
+    margin-right: 39px;
 }
 
-.div_last{
+.div_last {
     height: 18px;
     width: 106px;
     font-family: 'Nunito Sans';
